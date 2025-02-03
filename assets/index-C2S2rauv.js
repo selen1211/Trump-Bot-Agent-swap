@@ -58108,7 +58108,7 @@ const Zi = (e, t = 3) => {
     );
   },
   Tle = "https://t.me/trumpbotagent_erc/",
-  Nle = "https://x.com/trumpagent_erc",
+  Nle = "https://x.com/trumpagents_ai",
   _le = "https://t.me/trumpbotagent_erc/",
   Ole = () =>
     j.jsxDEV(
